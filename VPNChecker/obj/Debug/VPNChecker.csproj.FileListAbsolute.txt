@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\VPNChecker\VPNChecker\obj\Debug\VPNChecker.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\VPNChecker\VPNChecker\obj\Debug\VPNChecker.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\VPNChecker\VPNChecker\obj\Debug\VPNChecker.Properties.Resources.resources
+C:\Users\User\source\repos\VPNChecker\VPNChecker\obj\Debug\VPNChecker.csproj.GenerateResource.cache
+C:\Users\User\source\repos\VPNChecker\VPNChecker\obj\Debug\VPNChecker.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\VPNChecker\VPNChecker\bin\Debug\VPNChecker.exe.config
+C:\Users\User\source\repos\VPNChecker\VPNChecker\bin\Debug\VPNChecker.exe
+C:\Users\User\source\repos\VPNChecker\VPNChecker\bin\Debug\VPNChecker.pdb
+C:\Users\User\source\repos\VPNChecker\VPNChecker\obj\Debug\VPNChecker.exe
+C:\Users\User\source\repos\VPNChecker\VPNChecker\obj\Debug\VPNChecker.pdb
+C:\Users\User\source\repos\VPNChecker\VPNChecker\obj\Debug\VPNChecker.Form1.resources
